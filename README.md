@@ -21,7 +21,7 @@ Here's the **`README.md`** file for your **LegalEase AI** project:
 
 ### 🔹 **1. Clone the Repository**  
 ```bash
-git clone https://github.com/yourusername/LegalEase-AI.git
+git clone [https://github.com/yourusername/LegalEase-AI.git](https://github.com/TareqazizUday/LegalEase-AI-Comprehensive-Contract-Assistant.git)
 cd LegalEase-AI
 ```
 
